@@ -1,0 +1,3 @@
+gradio
+horde_sdk
+pillow
